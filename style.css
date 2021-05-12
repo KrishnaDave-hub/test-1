@@ -1,0 +1,168 @@
+.container {
+  margin-top: 0;
+  margin-left: 10%;
+  margin-right: 10%;
+  box-sizing: border-box;
+}
+.boxleft1,
+.box-right1,
+.head1,
+.head2,
+.head3,
+.head4,
+.head5,
+.head6,
+.head7,
+.box3,
+.box4 {
+  background-color: grey;
+}
+.head1,
+.head2,
+.head3,
+.head4,
+.head5,
+.head6 {
+  height: 50px;
+}
+.head2,
+.head3,
+.head5,
+.head6,
+.head7 {
+  margin-top: 10px;
+}
+.head2,
+.head6,
+.head7 {
+  margin-left: 32%;
+  margin-right: 32%;
+}
+.head3 {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.head4 {
+  margin-top: 22px;
+  margin-left: 23%;
+  margin-right: 23%;
+}
+.head5 {
+  margin-right: 35%;
+  margin-left: 35%;
+}
+.head7 {
+  height: 200px;
+}
+.box1,
+.box2,
+.box3,
+.box4 {
+  margin-top: 10px;
+}
+.box1 {
+  height: 500px;
+  /* background-color: hotpink; */
+}
+
+.box-left1,
+.box-right1 {
+  height: 500px;
+  width: 49.5%;
+  background-color: grey;
+}
+.box-left1 {
+  float: left;
+}
+.box-right1 {
+  float: right;
+}
+.box2 {
+  height: 350px;
+  /* background-color: hotpink; */
+}
+.inner-box1,
+.inner-box2 {
+  height: 181px;
+}
+
+.inner-box3,
+.inner-box4,
+.inner-box5,
+.inner-box6 {
+  float: left;
+  background-color: white;
+}
+.inner-box3,
+.inner-box4,
+.inner-box5 {
+  margin-top: 4.5%;
+  margin-left: 1%;
+  height: 300px;
+  width: 30%;
+}
+.inner-box3 {
+  margin-left: 4%;
+}
+.b1,
+.b2,
+.b3,
+.b4 {
+  background-color: grey;
+  height: 174px;
+  width: 174px;
+  margin: 5px;
+  float: left;
+  margin-bottom: 0px;
+}
+.b1 {
+  margin-left: 240px;
+}
+.box3,
+.box4 {
+  border: 10px solid white;
+  margin-top: 10px;
+}
+.box3 {
+  height: 400px;
+}
+.b5,
+.b6,
+.b7 {
+  background-color: grey;
+}
+.b5 {
+  margin-top: 6px;
+  margin-left: 10%;
+  margin-right: 10%;
+  height: 50px;
+}
+.b6,
+.b7 {
+  margin-top: 6px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.b6 {
+  height: 125px;
+}
+.b7 {
+  height: 100px;
+}
+.box4 {
+  height: 140px;
+}
+.inner-box6,
+.inner-box7 {
+  height: 100px;
+  margin-top: 2%;
+  width: 47%;
+}
+.inner-box7 {
+  float: right;
+  margin-right: 2%;
+  background-color: white;
+}
+.inner-box6 {
+  margin-left: 2%;
+}
