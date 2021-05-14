@@ -1,7 +1,5 @@
 .container {
   margin-top: 0;
-  margin-left: 10%;
-  margin-right: 10%;
   box-sizing: border-box;
 }
 .boxleft1,
@@ -39,13 +37,13 @@
   margin-right: 32%;
 }
 .head3 {
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 35%;
+  margin-right: 35%;
 }
 .head4 {
   margin-top: 22px;
-  margin-left: 23%;
-  margin-right: 23%;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 .head5 {
   margin-right: 35%;
@@ -96,7 +94,7 @@
 .inner-box3,
 .inner-box4,
 .inner-box5 {
-  margin-top: 4.5%;
+  margin-top: 51.5px;
   margin-left: 1%;
   height: 300px;
   width: 30%;
@@ -116,7 +114,7 @@
   margin-bottom: 0px;
 }
 .b1 {
-  margin-left: 240px;
+  margin-left:394px;
 }
 .box3,
 .box4 {
@@ -155,7 +153,7 @@
 .inner-box6,
 .inner-box7 {
   height: 100px;
-  margin-top: 2%;
+  margin-top: 20.5px;
   width: 47%;
 }
 .inner-box7 {
